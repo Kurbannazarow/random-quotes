@@ -12,8 +12,11 @@ body {
   background: #64b6ac !important;
   border-color: #64b6ac !important;
   cursor: pointer;
+  border: 0;
   font-size: 1.5rem;
   padding: 0.5rem 1rem;
+  border-radius: 34px;
+  outline: none;
 }
 #generate-btn:hover {
   background: #b09e99 !important;
